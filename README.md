@@ -8,6 +8,89 @@ This is a paper list for Social Recommendation，which also contains some relate
 
 #### Paper List
 
+
+- `TOIS(2025)`  C2lRec: Causal Contrastive Learning for User Cold-start Recommendation with Social Variable.  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3711858)]**  
+
+- `TOIS(2025)`  Independent or Social Driven Decision? A Counterfactual Refinement Strategy for Graph-Based Social Recommendation.  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3717830)]**  
+
+- `TKDE(2025)`  Hierarchical Denoising for Robust Social Recommendation.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10771708)]**  
+
+- `TSMC(2025)`  Nonlinear Matrix Factorization With Cognitive Opinion Formation for Social Recommendation.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10806848)]**  
+
+- `TKDE(2025)`  CoreSense: Social Commonsense Knowledge-Aware Context Refinement for Conversational Recommender System.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10858398)]**  
+
+- `WWW(2025)`  A self-supervised graph-learning method for reliable-relation identification in social recommendation.  **[[PDF](https://link.springer.com/content/pdf/10.1007/s11280-025-01330-6.pdf)]**  
+
+- `CIKM(2024)`  RecDiff: Diffusion Model for Social Recommendation.  **[[PDF](https://arxiv.org/pdf/2406.01629)]**  
+
+- `KDD(2024)`  Graph Bottlenecked Social Recommendation.  **[[PDF](https://arxiv.org/pdf/2406.08214)]**  
+
+- `WWW(2024)`  SocialCU: integrating commonalities and uniqueness of users and items for social recommendation.  **[[PDF](https://assets-eu.researchsquare.com/files/rs-3889697/v1_covered_4ca722ca-c366-40d8-900e-8e1495898423.pdf?c=1728317426)]**  
+
+- `MM(2024)`  Exploring User-oriented Social Recommendation System through Granting Users Control over a Social Group.  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3595916.3626369)]**  
+
+- `CIKM(2024)`  Social Influence Learning for Recommendation Systems.  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3627673.3679598)]**  
+
+- `TKDE(2024)`  Social-Enhanced Explainable Recommendation With Knowledge Graph.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10173618)]**  
+
+- `IOT(2024)`  Dual Preference Perception Network for Fashion Recommendation in Social Internet of Things.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10286302)]**  
+
+- `TKDE(2024)`  Hyperbolic Graph Learning for Social Recommendation.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10361607)]**  
+
+- `TKDE(2024)`  Temporal Social Graph Network Hashing for Efficient Recommendation.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387583)]**  
+
+- `TKDE(2024)`  Dual Variational Graph Reconstruction Learning for Social Recommendation.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10506644)]**  
+
+- `KDD(2024)`  Self-Supervised Denoising through Independent Cascade Graph Augmentation for Robust Social Recommendation.  **[[PDF](https://www.atailab.cn/seminar2024Fall/pdf/2024_KDD_Self-Supervised%20Denoising%20through%20Independent%20Cascade%20Graph%20Augmentation%20for%20Robust%20Social%20Recommendation(1).pdf)]**  
+
+- `IJCAI(2024)`  Graph Attention Network with High-Order Neighbor Information Propagation for Social Recommendation.  **[[PDF](https://www.ijcai.org/proceedings/2024/0274.pdf)]**  
+
+- `WSDM(2024)`  MADM: A Model-agnostic Denoising Module for Graph-based Social Recommendation.  
+
+- `SIGIR(2024)`  Graph Diffusive Self-Supervised Learning for Social Recommendation.  
+
+- `TKDD(2024)`  ID-SR: Privacy-Preserving Social Recommendation Based on Infinite Divisibility for Trustworthy AI.  
+
+- `TKDD(2024)`  Dual Homogeneity Hypergraph Motifs with Cross-view Contrastive Learning for Multiple Social Recommendations.  
+
+- `TKDD(2024)`  Heterogeneous Meta-Path Graph Learning for Higher-Order Social Recommendation.  
+
+- `TKDD(2023)`  Be Causal: De-Biasing Social Network Confounding in Recommendation.  **[[PDF](https://arxiv.org/pdf/2105.07775)]**  
+
+- `TKDD(2023)`  REST: Debiased Social Recommendation via Reconstructing Exposure Strategies.  **[[PDF](https://arxiv.org/pdf/2201.04952)]**  
+
+- `TKDD(2023)`  Explainable Integration of Social Media Background in a Dynamic Neural Recommender.  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3550279)]**  
+
+- `TSMC(2023)`  Graph-Augmented Co-Attention Model for Socio-Sequential Recommendation.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049198)]**  
+
+- `ICDE(2023)`  Disentangled Graph Social Recommendation.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184581)]**  
+
+- `TKDE(2023)`  Cross-Platform Item Recommendation for Online Social E-Commerce.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492753)]**  
+
+- `TKDE(2023)`  Community-Aware Social Recommendation: A Unified SCSVD Framework.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560111)]**  
+
+- `TKDE(2023)`  GDSRec: Graph-Based Decentralized Collaborative Filtering for Social Recommendation.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721542)]**  
+
+- `TKDE(2023)`  Disentangled Modeling of Social Homophily and Influence for Social Recommendation.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9827970)]**  
+
+- `TKDE(2023)`  TAG: Joint Triple-Hierarchical Attention and GCN for Review-Based Social Recommender System.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844848)]**  
+
+- `TKDE(2023)`  Semantic and Structural View Fusion Modeling for Social Recommendation.  **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9996130)]**  
+
+- `RecSys(2023)`  CR-SoRec: BERT driven Consistency Regularization for Social Recommendation.  **[[PDF](https://thetushar.tech/assets/pdf/Paper2_RecSys_Prakash.pdf)]**  
+
+- `TKDD(2023)`  Contrastive Learning Based Graph Convolution Network for Social Recommendation.  **[[PDF](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2022.830805/full)]**  
+
+- `IJCAI(2023)`  Denoised Self-Augmented Learning for Social Recommendation.  **[[PDF](https://www.ijcai.org/proceedings/2023/0258.pdf)]**  
+
+- `CIKM(2023)`  SMEF: Social-aware Multi-dimensional Edge Features-based Graph Representation Learning for Recommendation.  
+
+- `CIKM(2023)`  Celebrity-aware Graph Contrastive Learning Framework for Social Recommendation.  
+
+- `RecSys(2023)`  Denoising Explicit Social Signals for Robust Recommendation.  
+
+- `TOIS(2023)`  Community Preserving Social Recommendation with Cyclic Transfer Learning.
+
 - `SIGKDD(2023)`  Constrained Social Community Recommendation.  **[GNN]**  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3580305.3599793)]** 
 
 - `SIGKDD(2023)`  A Sublinear Time Algorithm for Opinion Optimization in Directed Social Networks via Edge Recommendation.  **[GNN]**  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3580305.3599247)]** 
