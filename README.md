@@ -3,7 +3,8 @@
 This is a paper list for Social Recommendation，which also contains some related research areas.
 
 **Keywords:** *Recommend System, Social Recommendation*
-
+#### Survey
+- `ACM Computing Surveys(2024)`  A Survey of Graph Neural Networks for Social Recommender Systems.  **[[PDF](https://dl.acm.org/doi/10.1145/3661821)]**  
 
 
 #### Paper List
