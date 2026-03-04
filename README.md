@@ -9,6 +9,13 @@ This is a paper list for Social Recommendation，which also contains some relate
 
 #### Paper List
 
+- `WWW(2026)`PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering **[[PDF](https://arxiv.org/abs/2601.14720)]**
+  
+- `TOIS(2025)`SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction **[[PDF](https://arxiv.org/abs/2510.00080)]**
+  
+- `CIKM(2025)`Community-Aware Social Community Recommendation **[[PDF](https://arxiv.org/abs/2508.05107)]**
+  
+- `WWW(2026)`From Aggregation to Selection: User-Validated Distributed Social Recommendation **[[PDF](https://arxiv.org/abs/2505.21388)]**
 
 - `TOIS(2025)`  C2lRec: Causal Contrastive Learning for User Cold-start Recommendation with Social Variable.  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3711858)]**  
 
